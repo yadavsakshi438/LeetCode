@@ -8,6 +8,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,9 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
