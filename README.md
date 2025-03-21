@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
