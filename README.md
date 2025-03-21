@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -71,4 +72,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
