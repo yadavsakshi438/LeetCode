@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/yadavsakshi438/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
