@@ -83,4 +83,9 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
