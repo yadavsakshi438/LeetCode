@@ -90,4 +90,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/yadavsakshi438/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
