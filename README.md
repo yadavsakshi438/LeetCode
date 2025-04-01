@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/yadavsakshi438/LeetCode/tree/master/0182-duplicate-emails) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
