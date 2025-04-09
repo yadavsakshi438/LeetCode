@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -62,6 +63,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
