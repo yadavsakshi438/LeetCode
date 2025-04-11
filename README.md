@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
