@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yadavsakshi438/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yadavsakshi438/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -129,5 +132,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
