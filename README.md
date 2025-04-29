@@ -38,6 +38,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yadavsakshi438/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavsakshi438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yadavsakshi438/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/yadavsakshi438/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0151-reverse-words-in-a-string) |
