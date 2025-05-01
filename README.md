@@ -18,6 +18,7 @@
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -78,6 +79,7 @@
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/yadavsakshi438/LeetCode/tree/master/1500-count-largest-group) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -169,6 +171,7 @@
 | [0015-3sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
