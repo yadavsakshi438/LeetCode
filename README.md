@@ -37,6 +37,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -145,6 +146,7 @@
 | [0344-reverse-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
 | ------- |
