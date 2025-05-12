@@ -17,6 +17,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -192,6 +193,7 @@
 | [0018-4sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Recursion
@@ -205,6 +207,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yadavsakshi438/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
