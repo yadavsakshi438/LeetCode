@@ -23,6 +23,7 @@
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yadavsakshi438/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1646-kth-missing-positive-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/yadavsakshi438/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -118,6 +119,7 @@
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [1646-kth-missing-positive-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
