@@ -47,6 +47,7 @@
 | [3639-zero-array-transformation-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yadavsakshi438/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3783-permutations-iv](https://github.com/yadavsakshi438/LeetCode/tree/master/3783-permutations-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3783-permutations-iv](https://github.com/yadavsakshi438/LeetCode/tree/master/3783-permutations-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3783-permutations-iv](https://github.com/yadavsakshi438/LeetCode/tree/master/3783-permutations-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,4 +262,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3783-permutations-iv](https://github.com/yadavsakshi438/LeetCode/tree/master/3783-permutations-iv) |
 <!---LeetCode Topics End-->
