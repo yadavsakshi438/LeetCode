@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
 | [0575-distribute-candies](https://github.com/yadavsakshi438/LeetCode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavsakshi438/LeetCode/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yadavsakshi438/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
