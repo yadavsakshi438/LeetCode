@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/yadavsakshi438/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavsakshi438/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/yadavsakshi438/LeetCode/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
