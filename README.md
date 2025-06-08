@@ -295,6 +295,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/yadavsakshi438/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,4 +304,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/yadavsakshi438/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
