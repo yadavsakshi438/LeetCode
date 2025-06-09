@@ -64,6 +64,7 @@
 | [0344-reverse-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -89,6 +90,7 @@
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1646-kth-missing-positive-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
