@@ -101,6 +101,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/yadavsakshi438/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yadavsakshi438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -286,6 +287,7 @@
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yadavsakshi438/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yadavsakshi438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yadavsakshi438/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
