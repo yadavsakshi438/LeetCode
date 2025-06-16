@@ -33,6 +33,7 @@
 | [1646-kth-missing-positive-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2048-build-array-from-permutation](https://github.com/yadavsakshi438/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/yadavsakshi438/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
