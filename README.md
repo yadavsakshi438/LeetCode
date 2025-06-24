@@ -41,6 +41,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yadavsakshi438/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -72,6 +73,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
