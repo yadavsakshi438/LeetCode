@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/yadavsakshi438/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -172,6 +174,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
