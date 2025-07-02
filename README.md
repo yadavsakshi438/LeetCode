@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/yadavsakshi438/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/yadavsakshi438/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Sorting
