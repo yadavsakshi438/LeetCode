@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yadavsakshi438/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavsakshi438/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yadavsakshi438/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yadavsakshi438/LeetCode/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
