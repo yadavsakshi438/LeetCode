@@ -123,6 +123,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2050-count-good-numbers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/yadavsakshi438/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/yadavsakshi438/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yadavsakshi438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
