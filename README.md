@@ -109,6 +109,7 @@
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
@@ -146,6 +147,7 @@
 | [0049-group-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/yadavsakshi438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/yadavsakshi438/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
@@ -232,6 +234,7 @@
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavsakshi438/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/yadavsakshi438/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Stack
 |  |
