@@ -59,6 +59,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3104-happy-students](https://github.com/yadavsakshi438/LeetCode/tree/master/3104-happy-students) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yadavsakshi438/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/yadavsakshi438/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3104-happy-students](https://github.com/yadavsakshi438/LeetCode/tree/master/3104-happy-students) |
 | [3199-distribute-candies-among-children-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -314,6 +316,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yadavsakshi438/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3104-happy-students](https://github.com/yadavsakshi438/LeetCode/tree/master/3104-happy-students) |
 ## Recursion
 |  |
 | ------- |
