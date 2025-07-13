@@ -192,6 +192,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/yadavsakshi438/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -403,4 +404,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yadavsakshi438/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
