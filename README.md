@@ -24,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/yadavsakshi438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/yadavsakshi438/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -192,6 +193,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/yadavsakshi438/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
