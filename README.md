@@ -264,6 +264,7 @@
 | [0459-repeated-substring-pattern](https://github.com/yadavsakshi438/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/yadavsakshi438/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yadavsakshi438/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
