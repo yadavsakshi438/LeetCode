@@ -56,6 +56,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yadavsakshi438/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2478-longest-nice-subarray](https://github.com/yadavsakshi438/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -183,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/yadavsakshi438/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -224,6 +226,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavsakshi438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/yadavsakshi438/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2478-longest-nice-subarray](https://github.com/yadavsakshi438/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
