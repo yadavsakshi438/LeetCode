@@ -86,6 +86,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -326,6 +327,7 @@
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yadavsakshi438/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -349,6 +351,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -419,9 +422,14 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yadavsakshi438/LeetCode/tree/master/0278-first-bad-version) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
