@@ -36,6 +36,7 @@
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -164,6 +165,7 @@
 | [0575-distribute-candies](https://github.com/yadavsakshi438/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/yadavsakshi438/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/yadavsakshi438/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yadavsakshi438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/yadavsakshi438/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/yadavsakshi438/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
