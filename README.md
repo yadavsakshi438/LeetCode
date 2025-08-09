@@ -122,6 +122,7 @@
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yadavsakshi438/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -352,6 +354,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
