@@ -127,6 +127,7 @@
 | [0263-ugly-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
