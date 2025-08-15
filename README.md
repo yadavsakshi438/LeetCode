@@ -128,6 +128,7 @@
 | [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yadavsakshi438/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/yadavsakshi438/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/yadavsakshi438/LeetCode/tree/master/0441-arranging-coins) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/yadavsakshi438/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -365,6 +367,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/yadavsakshi438/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yadavsakshi438/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
