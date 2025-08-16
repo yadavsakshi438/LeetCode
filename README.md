@@ -137,6 +137,7 @@
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/yadavsakshi438/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yadavsakshi438/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -393,6 +394,7 @@
 | [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yadavsakshi438/LeetCode/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
+| [1448-maximum-69-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
