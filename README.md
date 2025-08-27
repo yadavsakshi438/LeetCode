@@ -33,6 +33,7 @@
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
 | [0494-target-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0575-distribute-candies](https://github.com/yadavsakshi438/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -109,6 +110,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/yadavsakshi438/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
