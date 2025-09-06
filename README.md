@@ -89,6 +89,7 @@
 | [0011-container-with-most-water](https://github.com/yadavsakshi438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -487,6 +488,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
