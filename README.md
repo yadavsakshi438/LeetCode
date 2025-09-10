@@ -166,6 +166,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yadavsakshi438/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3783-permutations-iv](https://github.com/yadavsakshi438/LeetCode/tree/master/3783-permutations-iv) |
+| [3830-find-closest-person](https://github.com/yadavsakshi438/LeetCode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
