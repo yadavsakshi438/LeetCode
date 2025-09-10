@@ -130,6 +130,7 @@
 | [0043-multiply-strings](https://github.com/yadavsakshi438/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yadavsakshi438/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/yadavsakshi438/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/yadavsakshi438/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
@@ -287,6 +288,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yadavsakshi438/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yadavsakshi438/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/yadavsakshi438/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yadavsakshi438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavsakshi438/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -508,4 +510,8 @@
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yadavsakshi438/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
