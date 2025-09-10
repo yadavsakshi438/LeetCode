@@ -40,6 +40,7 @@
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yadavsakshi438/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -151,6 +152,7 @@
 | [0900-reordered-power-of-2](https://github.com/yadavsakshi438/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/yadavsakshi438/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yadavsakshi438/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1448-maximum-69-number) |
@@ -258,6 +260,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
@@ -387,6 +390,7 @@
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/yadavsakshi438/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yadavsakshi438/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -514,6 +518,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Memoization
 |  |
