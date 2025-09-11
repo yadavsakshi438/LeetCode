@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yadavsakshi438/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yadavsakshi438/LeetCode/tree/master/0078-subsets) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -296,6 +298,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yadavsakshi438/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yadavsakshi438/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/yadavsakshi438/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yadavsakshi438/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yadavsakshi438/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0097-interleaving-string) |
