@@ -100,6 +100,7 @@
 | [0061-rotate-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yadavsakshi438/LeetCode/tree/master/0202-happy-number) |
@@ -405,6 +406,7 @@
 | [0056-merge-intervals](https://github.com/yadavsakshi438/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yadavsakshi438/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/yadavsakshi438/LeetCode/tree/master/0389-find-the-difference) |
@@ -465,6 +467,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -533,6 +536,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -553,4 +557,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/yadavsakshi438/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
