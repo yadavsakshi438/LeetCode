@@ -35,6 +35,7 @@
 | [0216-combination-sum-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
 | [0330-patching-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0330-patching-array) |
+| [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0575-distribute-candies](https://github.com/yadavsakshi438/LeetCode/tree/master/0575-distribute-candies) |
@@ -272,6 +273,7 @@
 | [0059-spiral-matrix-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/yadavsakshi438/LeetCode/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -443,6 +445,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -500,6 +503,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavsakshi438/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavsakshi438/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Tree
 |  |
 | ------- |
