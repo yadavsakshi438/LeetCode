@@ -83,6 +83,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yadavsakshi438/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -116,6 +117,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/yadavsakshi438/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
@@ -221,6 +223,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/yadavsakshi438/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yadavsakshi438/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yadavsakshi438/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -250,6 +253,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yadavsakshi438/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -265,6 +269,7 @@
 | [1646-kth-missing-positive-number](https://github.com/yadavsakshi438/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yadavsakshi438/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
@@ -320,6 +325,7 @@
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/0494-target-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -424,6 +430,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yadavsakshi438/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3104-happy-students](https://github.com/yadavsakshi438/LeetCode/tree/master/3104-happy-students) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/yadavsakshi438/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yadavsakshi438/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
 | ------- |
