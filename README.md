@@ -46,6 +46,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yadavsakshi438/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -209,6 +210,7 @@
 | [0697-degree-of-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0900-reordered-power-of-2](https://github.com/yadavsakshi438/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/yadavsakshi438/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yadavsakshi438/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/yadavsakshi438/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -353,6 +355,7 @@
 | [0541-reverse-string-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yadavsakshi438/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yadavsakshi438/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yadavsakshi438/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/yadavsakshi438/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/yadavsakshi438/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -423,6 +426,7 @@
 | [0645-set-mismatch](https://github.com/yadavsakshi438/LeetCode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/yadavsakshi438/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yadavsakshi438/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/yadavsakshi438/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
