@@ -381,6 +381,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yadavsakshi438/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/yadavsakshi438/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yadavsakshi438/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yadavsakshi438/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yadavsakshi438/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -531,6 +532,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/yadavsakshi438/LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/yadavsakshi438/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yadavsakshi438/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Interactive
