@@ -45,6 +45,7 @@
 | [0940-fruit-into-baskets](https://github.com/yadavsakshi438/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1031-add-to-array-form-of-integer](https://github.com/yadavsakshi438/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/yadavsakshi438/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1293-three-consecutive-odds](https://github.com/yadavsakshi438/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yadavsakshi438/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yadavsakshi438/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -284,6 +285,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/yadavsakshi438/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1094-matrix-cells-in-distance-order](https://github.com/yadavsakshi438/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/yadavsakshi438/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/yadavsakshi438/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
@@ -512,6 +514,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/yadavsakshi438/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/yadavsakshi438/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/yadavsakshi438/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1254-number-of-closed-islands](https://github.com/yadavsakshi438/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/yadavsakshi438/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/yadavsakshi438/LeetCode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/yadavsakshi438/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1254-number-of-closed-islands](https://github.com/yadavsakshi438/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -532,6 +536,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yadavsakshi438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/yadavsakshi438/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
